@@ -1,4 +1,4 @@
-# Monokai Dimmed theme for RStudio
+# Monokai Dimmed Theme for RStudio
 A dark theme for the RStudio IDE. Based on the [Monokai Dimmed theme for VS Code](https://github.com/microsoft/vscode/tree/main/extensions/theme-monokai-dimmed/themes).
 
 To install, download the [Cooper-Monokai-Dimmed.rstheme](https://github.com/thedbcooper/rstudio-theme-monokai-dimmed/blob/main/Cooper-Monokai-Dimmed.rstheme) file, then in RStudio go into:      
