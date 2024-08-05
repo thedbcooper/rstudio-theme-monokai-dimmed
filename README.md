@@ -12,3 +12,5 @@ Tools > Global Options... > Code tab, and under Display section, enable the Rain
 ![](screenshots/img1.png)
 
 ![](screenshots/img2.png)
+
+![](screenshots/img3.png)
